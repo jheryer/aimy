@@ -1,5 +1,10 @@
 assets/
-
+.DS_Store
+old/
+.vscode/
+live_assets/
+vector_db/
+aimy_db/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
